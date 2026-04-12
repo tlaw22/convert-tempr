@@ -1,5 +1,5 @@
 # Temperature Converter — Java Swing Teaching App
-
+![Temper Converter](sc.png)
 A beginner-friendly Java Swing desktop application that converts temperatures between Fahrenheit and Celsius. The source code is written as a guided lesson, with every major section annotated to explain not just *what* the code does, but *why* it's written that way.
 
 ---
